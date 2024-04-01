@@ -61,6 +61,23 @@ Survive the treacherous cosmic environment by skillfully navigating through aste
 - **C#**: Primary programming language used for game logic and mechanics.
 - **Unity3D**: Game engine utilized for development, rendering, and deployment.
 
+<!-- LICENSE -->
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+<!-- CONTACTS -->
+## Contact:
+
+- **Kazi Jawadul Islam Jishan**
+  - *GitHub:* [Jobaduwul](https://github.com/Jobaduwul)
+- **Mashrur Ahsan (Akash)**
+  - *GitHub:* [GoonerMAK](https://github.com/GoonerMAK)
+- **Shanta Maria**
+  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
+- **Nafisa Maliyat**
+  - *GitHub:* [NafisaMaliyat-iut](https://www.github.com/NafisaMaliyat-iut)
+
 ---
 
 *Download the latest release and start your cosmic adventure today!*
