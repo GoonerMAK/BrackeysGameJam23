@@ -1,4 +1,4 @@
-# Cosmic Dodge
+# Cosmic Dodge  ![https://m-a-k.itch.io/cosmic-dodge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
 This game was created as a submission for the Brackeys Game Jam 2023. The theme of the game jam was **Diving Deeper**.
 
