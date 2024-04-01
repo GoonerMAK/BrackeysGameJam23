@@ -1,5 +1,7 @@
 # Cosmic Dodge
 
+This game was created as a submission for the Brackeys Game Jam 2023. The theme of the game jam was **Diving Deeper**.
+
 **Cosmic Dodge** is an action-packed space odyssey game developed using C# and Unity3D. Dive into the depths of the cosmos, where survival is a constant challenge, and navigate through asteroid-infested space to achieve cosmic supremacy. Showcase your piloting skills and precision shooting to outmaneuver fate and climb to the top of the leaderboard.
 
 ## Controls
